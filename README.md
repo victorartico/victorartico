@@ -34,5 +34,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 🌟*“Sempre aprendendo e evoluindo como desenvolvedor.”*🌟
 
 
-https://imgur.com/a/2GqOwuS
+
 
