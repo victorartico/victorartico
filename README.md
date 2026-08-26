@@ -32,3 +32,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:v.artico123@gmail.com)
 ---
 🌟*“Sempre aprendendo e evoluindo como desenvolvedor.”*🌟
+
+<div style="gif"><br>
+<gif heigt="80" width="50"
+src="https://imgur.com/a/2GqOwuS">
+</div>
