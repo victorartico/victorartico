@@ -33,7 +33,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 🌟*“Sempre aprendendo e evoluindo como desenvolvedor.”*🌟
 
-<div style="gif"><br>
-<gif heigt="80" width="50"
-src="https://imgur.com/a/2GqOwuS">
-</div>
+
+https://imgur.com/a/2GqOwuS
+
